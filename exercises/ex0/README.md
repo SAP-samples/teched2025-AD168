@@ -24,7 +24,11 @@ Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative
 
 In this step we will generate Purchase Requisition Approval process template using Generative AI.
 
-1. Click on Generate and select Process
+1. Click on Generate and select Process<br>
+<br>![](/exercises/ex0/images/GenProc.png)
+
+2.Enter following prompt "Generate an empty process template called Purchase Requisition with an approval form" and click on send icon<br>
+
    
 3.	Insert this code.
 ``` abap
