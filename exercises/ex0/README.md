@@ -35,7 +35,7 @@ In this step we will generate Purchase Requisition Approval process template usi
 
 ## Form Generation
 
-1. In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.<br>
+1. In this step we will generate a form using Generative AI and use it as Trigger Form to start the process.
 
 2.Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.
 
