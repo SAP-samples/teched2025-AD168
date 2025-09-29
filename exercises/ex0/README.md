@@ -1,13 +1,13 @@
-# Level 1 Heading
+# Purchase Order Approval Process 
 
 In this exercise we will learn how to use Joule for Developers capabilities of SAP Build in Process Automation. We will use following features to create a sample Purchase Requisition Approval process:
 
-Generate Process Template<br>
-Generate Form<br>
-Generate Script<br>
-Generate Business Rules<br>
+1. Generate Process Template<br>
+2. Generate Form<br>
+3. Generate Script<br>
+4. Generate Business Rules<br>
 
-## Level 2 Heading
+## Enable Generative AI option
 
 Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
 <br>![](/exercises/ex0/images/GenAI.png)
