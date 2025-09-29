@@ -9,10 +9,8 @@ Generate Business Rules<br>
 
 ## Level 2 Heading
 
-After completing these steps you will have....
-
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
+<br>![](/exercises/ex0/images/GenAI.png)
 
 2.	Insert this code.
 ``` abap
