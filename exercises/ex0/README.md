@@ -45,13 +45,17 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
 <br>![](/exercises/ex0/images/PRSubForm.png)
 
-3. Once the form is generated, Click on Save<br>
+3. Once the form is generated, Click on Save.<br>
 <br>![](/exercises/ex0/images/Save.png)
 
-4. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save<br>
+4. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.<br>
 <br>![](/exercises/ex0/images/Trigger.png)
 
-5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of string type) and Save the process.
+5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of string type) and Save the process.<br>
+<br>![](/exercises/ex0/images/CustomVar.png) <br>![](/exercises/ex0/images/ConCustVar.png)
+
+6. Because we are using Product Information Form to Trigger the process, we will remove it from next step. Select Product Information Form, click on three dots, click on Remove and Save the process.
+
    
 
 
