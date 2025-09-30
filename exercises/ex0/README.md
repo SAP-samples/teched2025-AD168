@@ -7,6 +7,8 @@ In this exercise we will learn how to use Joule for Developers capabilities of S
 3. Generate Script<br>
 4. Generate Business Rules<br>
 
+Note: Save work with each step just to make sure we do not lose out on any information.
+
 ## Enable Generative AI option
 
 Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative AI" is enabled.
@@ -40,7 +42,15 @@ In this step we will generate Purchase Requisition Approval process template usi
 2. Click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
 <br>![](/exercises/ex0/images/Form.png)
 
-3.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price". Click on Save
+3.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
+<br>![](/exercises/ex0/images/PRSubForm.png)
+
+4. Once the form is generated, Click on Save
+<br>![](/exercises/ex0/images/PRSubForm.png)
+
+5. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.
+<br>![](/exercises/ex0/images/PRSubForm.png)
+   
 
 
  
