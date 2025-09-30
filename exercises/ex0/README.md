@@ -94,17 +94,15 @@ In this step we will write a custom script using Generative AI to calculate tota
  <br>![](/exercises/ex0/images/DeterApp.png)
  
  5. Click on Generate, select Generate Rule, enter the following prompt and Save Process:
-"create a decision table rule with name "approver determination" to determine approver based on supplier such that if the supplier is 1710, the purchase requisition must be approved by the "adminmanager@sap.com". If supplier is 1720, it must be approved by "procurementmanager@sap.com"
-
+"create a decision table rule with name "approver determination" to determine approver based on supplier such that if the supplier is 1710, the purchase requisition must be approved by the "adminmanager@sap.com". If supplier is 1720, it must be approved by "procurementmanager@sap.com"<br>
 Note: Replace email ID with valid process automation user email id for testing purpose.<br>
 <br>![](/exercises/ex0/images/GenRule.png)<br>
 <br>![](/exercises/ex0/images/RulePrompt.png)
 
+7. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step.
 
-6. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step.
 
-
-7.	Insert this code.
+8.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
