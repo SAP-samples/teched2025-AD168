@@ -97,7 +97,7 @@ In this step we will write a custom script using Generative AI to calculate tota
 "create a decision table rule with name "approver determination" to determine approver based on supplier such that if the supplier is 1710, the purchase requisition must be approved by the "adminmanager@sap.com". If supplier is 1720, it must be approved by "procurementmanager@sap.com"
 
 Note: Replace email ID with valid process automation user email id for testing purpose.<br>
-<br>![](/exercises/ex0/images/DeterApp.png)
+<br>![](/exercises/ex0/images/GenRule.png)
 
 6. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step.
 
