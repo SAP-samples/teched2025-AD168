@@ -99,11 +99,14 @@ Note: Replace email ID with valid process automation user email id for testing p
 <br>![](/exercises/ex0/images/GenRule.png)<br>
 <br>![](/exercises/ex0/images/RulePrompt.png)
 
-7. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step and save.<br>
+6. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step and save.<br>
+<br>![](/exercises/ex0/images/AvailableDec.png)
+
+7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form (Trigger) and Save the process.
 <br>![](/exercises/ex0/images/AvailableDec.png)
 
 
-8.	Insert this code.
+9.	Insert this code.
 ``` abap
  DATA(params) = request->get_form_fields(  ).
  READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
