@@ -116,4 +116,4 @@ Note: Replace email ID with valid process automation user email id for testing p
 ## Summary
 
 Now that you know how to use Generative AI capabilities to generate process, form, java script and business rules,  
-Continue to learn Process Variants feature here- [[Process Variants Exercise](exercises/ex1/)](../ex1/README.md)
+Continue to learn Process Variants feature here- [Process Variants Exercise](exercises/ex1/README.md)
