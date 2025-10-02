@@ -114,19 +114,7 @@ Note: Replace email ID with valid process automation user email id for testing p
 7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form (Trigger) and Save the process.
 <br>![](/exercises/ex0/images/MapInput.png)
 
-
-9.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
-
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you know how to use Generative AI capabilities to generate process, form, java script and business rules,  
+Continue to learn Process Variants feature here- [Exercise 1 - Exercise 1 Description](../ex1/README.md)
