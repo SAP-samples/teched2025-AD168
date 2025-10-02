@@ -1,11 +1,12 @@
 # Purchase Order Approval Process 
 
-In this exercise we will learn how to use Joule for Developers capabilities of SAP Build in Process Automation. We will use following features to create a sample Purchase Requisition Approval process:
+In this exercise we will learn how to use Joule for Developers capabilities and Process Variants of SAP Build in Process Automation. We will use following features to create a Purchase Order Approval process:
 
 1. Generate Process Template<br>
 2. Generate Form<br>
 3. Generate Script<br>
 4. Generate Business Rules<br>
+5. Process Variants <br>
 
 Note: Save work with each step just to make sure we do not lose out on any information.
 
@@ -23,11 +24,12 @@ Login to SAP Build Lobby Navigate to Control Tower and ensure "Enable Generative
 <br>![](/exercises/ex0/images/Import.png)
 
 3.Browse for the downloaded Purchase Order Approval Process project and click on Import. This will import the project.<br>
+In the interest of time, project already has predefined sub-processes and approval forms to help in the Process Variants creation.
 <br>![](/exercises/ex0/images/Browse_Project_Import.png)
 
 ## Process Generation
 
-In this step we will generate Purchase Requisition Approval process template using Generative AI.
+In this step we will generate Purchase Order Approval process using Generative AI.
 
 1. Click on Generate and select Process<br>
 <br>![](/exercises/ex0/images/GenProc.png)
