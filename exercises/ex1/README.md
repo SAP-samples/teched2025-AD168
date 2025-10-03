@@ -19,9 +19,18 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Available_Steps.png)
 7.Click on "Add Default Variant" in the General tab and Create a new one with name "Default Variant" which will act as a fallback if no other variant is created or no other start condition is met
 <br>![](/exercises/ex1/images/Default_Variant.png)
-8.Click on Variables tab and add attributes
+8.Click on + after the Process and add Variant Steps to Default Variant
+<br>![](/exercises/ex1/images/Add_Default_Variant.png)
+9.Add Department Approval Process step to the Default Variant
+<br>![](/exercises/ex1/images/Add_Dept_Default_Variant.png)
+10..Click on + after the Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
+<br>![](/exercises/ex1/images/Add_Parallel_Branch.png)
+11. Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches
+<br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
+12. 
+10.Click on Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
-9.Add all the attributes from the process context
+11.Add all the attributes from the process context
 <br>![](/exercises/ex1/images/Add_Attributes.png)
     1. ApprovalStatus<br>
     2. Totalprice
@@ -33,6 +42,8 @@ In this exercise, we will learn how to create different Process Variants for the
     8. PaymentTerms
     9. RequestedBy
     10. Supplier
+
+13.
         
 
    
