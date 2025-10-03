@@ -27,12 +27,11 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Parallel_Branch.png)
 11. Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches
 <br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
-12. Click on + and Add Step Procurement Approval Process
-<br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
-13. 
-10.Click on Variables tab and add attributes
+12. Click on + and Add Step Procurement Approval Process. Default Variant finally will look like below:
+<br>![](/exercises/ex1/images/Final_Default_Variant.png)
+13. Click on Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
-11.Add all the attributes from the process context
+14.Add all the attributes from the process context
 <br>![](/exercises/ex1/images/Add_Attributes.png)
     1. ApprovalStatus<br>
     2. Totalprice<br>
