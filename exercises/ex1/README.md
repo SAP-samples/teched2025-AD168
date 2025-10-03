@@ -14,15 +14,11 @@ In this exercise, we will learn how to create different Process Variants for the
 3. Give name as "Purchase Order Variant Template" and Save <br>
 4. Click on "Open Variant Template"<br>
 5. Click on "Add Steps" and add all the available steps.
-   <br>![](/exercises/ex1/images/Add_Steps.png)  
+<br>![](/exercises/ex1/images/Add_Steps.png) 
 6. Steps available in Variant Editor will look as below:
-   <br>![](/exercises/ex1/images/Available_Steps.png)
+<br>![](/exercises/ex1/images/Available_Steps.png)
    
 
-5.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
 
 
 
@@ -31,17 +27,6 @@ response->set_text( |Hello World! | ).
 After completing these steps you will have...
 
 1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
 
