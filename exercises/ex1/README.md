@@ -92,15 +92,9 @@ Add 3 levels of approvals, "Department Approval Process", "Finance Approval Proc
 16.A variant can be deleted as well by clicking on "Delete".<br>
 17.Release and deploy all variants by clicking on "Deploy All".<br>
 <br>![](/exercises/ex1/images/Deploy_All.png)
-
-
-
-
-
-
 ## Summary
 
 You've now learnt to work with Process Variants in SAP Build Process Automation
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Deploy and Run Process(Variants)](../ex2/README.md)
 
