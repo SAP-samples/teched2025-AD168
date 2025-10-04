@@ -84,7 +84,10 @@ Add 3 levels of approvals, "Department Approval Process", "Finance Approval Proc
 <br>![](/exercises/ex1/images/Change_Order_Variants.png)
 13.Order/Priority is changed now. "Three levels of approvals" moves to the top.
 <br>![](/exercises/ex1/images/Order_Change.png)
-14.Activate and deactivate a variant<br>
+14.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate
+<br>![](/exercises/ex1/images/Deactivate_Variant.png)
+15.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate
+<br>![](/exercises/ex1/images/Activate_Variant.png)
 15.Release and deploy all variants.<br>
 
 
