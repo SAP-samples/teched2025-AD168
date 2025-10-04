@@ -68,12 +68,20 @@ In this exercise, we will learn how to create different Process Variants for the
 6.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
 <br>![](/exercises/ex1/images/Add_Dependency.png)
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
-
-1.Create, modify, and delete variants
-2.View and change the order of the variants.
-3.View and modify the start condition.
-4.Activate and deactivate a variant
-5.Release and deploy all variants.
+7.Create a variant named "Two level approval" by clicking on Create Variant <br>
+<br>![](/exercises/ex1/images/Create_Variant.png)
+8.Add 2 levels of approvals, "Department Approval Process" and "Procurement Approval Process"
+<br>![](/exercises/ex1/images/Add_2_levels.png)
+9.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
+<br>![](/exercises/ex1/images/Two_Levels_Start_Condition.png)
+10.Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
+<br>![](/exercises/ex1/images/Three_Levels_Approvals.png)
+11.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000"
+<br>![](/exercises/ex1/images/Three_levels_Start_Condition.png)
+12.View and change the order of the variants.
+13.View and modify the start condition.
+14.Activate and deactivate a variant
+15.Release and deploy all variants.
 
 
 
