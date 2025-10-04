@@ -55,24 +55,28 @@ In this exercise, we will learn how to create different Process Variants for the
 19.Now,2 global outcomes depending on the approval status(Approved,Rejected) as condition are created
 <br>![](/exercises/ex1/images/Global_Outcomes.png)
         
+## Create Process Variant Management
 
-   
+1.Release "Purchase Order Approval Process" project
+<br>![](/exercises/ex1/images/Release_Project.png)
+2.Publish  to Library the "Purchase Order Approval Process" project so that it can be added as dependency to the Variant Management project which we will be creating now
+<br>![](/exercises/ex1/images/Publish_To_Library.png)
+
+1.Create, modify, and delete variants
+2.View and change the order of the variants.
+3.View and modify the start condition.
+4.Activate and deactivate a variant
+5.Release and deploy all variants.
 
 
 
 
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
 
-You've now ...
+You've now learnt to work with Process Variants in SAP Build Process Automation
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
