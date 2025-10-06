@@ -7,11 +7,14 @@ After completing these steps you will have released and deployed the project...
 
 1. Click on Release to release a version of the template project.
    <br>![](/exercises/ex2/images/Release_Template_Project.png)
-2.	Deploy the template project.
+2. Create an Environment with name of your user id prefixed by Env (for example , if your userid is user001, then create an Environment with name Envuser001
+<br>![](/exercises/ex2/images/Env1.png)
+<br>![](/exercises/ex2/images/Env2.png)
+3.	Deploy the template project.
    <br>![](/exercises/ex2/images/Deploy_Template_Project.png)
-3. Deploy the Variant project
+4. Deploy the Variant project
    <br>![](/exercises/ex2/images/Deploy_PO_Approval_PV.png)
-4. 
+5. 
 
 
 
