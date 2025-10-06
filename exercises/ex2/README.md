@@ -1,17 +1,17 @@
 # Deploy and Run Process(Variants)
-In this exercise, we will create...
+In this exercise, we will learn how to Deploy and Run the process. If process variants are modelled, depending on the start condition, one of the process variant will be triggered and if the start condition does not match any of the variants, the default variant will be triggered as fallback.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Release and Deploy the project
 
-After completing these steps you will have created...
+After completing these steps you will have released and deployed the project...
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+1. Click on Release to release a version of the template project.
+   <br>![](/exercises/ex2/images/Release_Template_Project.png)
+2.	Deploy the template project.
+   <br>![](/exercises/ex2/images/Deploy_Template_Project.png)
+3. Deploy the Variant project
+   <br>![](/exercises/ex2/images/Deploy_PO_Approval_PV.png)
+4. 
 
 
 
