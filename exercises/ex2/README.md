@@ -47,9 +47,17 @@ If there are no variants configured, the process just runs all the steps configu
 ``` 
 7. Click on "Start New Instance and Close "<br>
 8. Click on Show Instances<br>
-9. Click on Running instance and you can see that a Task "PR Submission Form" is available <br>
+9. Click on Running instance and you can see that a Task "PR Submission Form" is available<br>
 10.This form will be available in the My Inbox, click on My Inbox icon to see this task and further tasks.
    <br>![](/exercises/ex2/images/Running_instance.png)
+11.Enter the details in PR Submission Form with data given below :
+   <br>![](/exercises/ex2/images/PR_Sub_Form.png)
+12. As the total price is less than 10000, Two level approval process variant got triggered.<br>
+First step of approval will be for Department Approval and next level will be Procurement Approval.
+<br>![](/exercises/ex2/images/Two_level_Approval.png)
+13. Note: If you have given totalprice to be more than 10000 and less than 50000, Three level approval variant would be triggered<br>
+14.If totalprice is more than 50000, Default variant would have been triggered.<br>
+
 
 ## Summary
 
