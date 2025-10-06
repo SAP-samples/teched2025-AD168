@@ -49,7 +49,7 @@ If there are no variants configured, the process just runs all the steps configu
 8. Click on Show Instances<br>
 9. Click on Running instance and you can see that a Task "PR Submission Form" is available <br>
 10.This form will be available in the My Inbox, click on My Inbox icon to see this task and further tasks.
-   <br>![](/exercises/ex2/images/Running_Instance.png)
+   <br>![](/exercises/ex2/images/Running_instance.png)
 
 ## Summary
 
