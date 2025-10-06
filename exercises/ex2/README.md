@@ -10,11 +10,13 @@ After completing these steps you will have released and deployed the project...
 2. Create an Environment with name of your user id prefixed by Env (for example , if your userid is user001, then create an Environment with name Envuser001
 <br>![](/exercises/ex2/images/Env1.png)
 <br>![](/exercises/ex2/images/Env2.png)
-3.	Deploy the template project.
+3.	Deploy the template project to your Environment that you just now created.
    <br>![](/exercises/ex2/images/Deploy_Template_Project.png)
-4. Deploy the Variant project
+  	Deployment succeessful message should appear
+5. Deploy the Variant project  to your Environment that you just now created.
    <br>![](/exercises/ex2/images/Deploy_PO_Approval_PV.png)
-5. 
+   Deployment succeessful message should appear
+   
 
 
 
