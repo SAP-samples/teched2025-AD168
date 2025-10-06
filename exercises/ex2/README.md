@@ -52,12 +52,16 @@ If there are no variants configured, the process just runs all the steps configu
    <br>![](/exercises/ex2/images/Running_instance.png)
 11.Enter the details in PR Submission Form with data given below :
    <br>![](/exercises/ex2/images/PR_Sub_Form.png)
-12. As the total price is less than 10000, Two level approval process variant got triggered.<br>
-First step of approval will be for Department Approval and next level will be Procurement Approval.
+12.As the total price is less than 10000, Two level approval process variant got triggered.
 <br>![](/exercises/ex2/images/Two_level_Approval.png)
-13. Note: If you have given totalprice to be more than 10000 and less than 50000, Three level approval variant would be triggered<br>
-14.If totalprice is more than 50000, Default variant would have been triggered.<br>
-
+   <b>Note: If you have given totalprice to be more than 10000 and less than 50000, Three level approval variant would be triggered<br>
+   If totalprice is more than 50000, Default variant would have been triggered.<br></b>
+13.First step of approval will be for Department Approval.Click on "Approve"
+   <br>![](/exercises/ex2/images/Dept_Approval.png)
+14.Next level will be Procurement Approval.Click on "Approve"   
+   <br>![](/exercises/ex2/images/Procurement_Approval_Form.png)
+15. Process will be completed successfully
+   <br>![](/exercises/ex2/images/Process_Completed_Successfully.png)
 
 ## Summary
 
