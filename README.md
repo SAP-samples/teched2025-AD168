@@ -13,6 +13,7 @@ For example, a process variant has most of the mappings already defined and the 
 ## Usecase
 
 We will take the typical Purchase Order Approval Process which will involve the following steps :
+<br>![](/exercises/ex0/images/Usecase.png)
 1) Submit Purchase Requisition
 2) Calculate Total price of all items 
 3) Determine Approver 
