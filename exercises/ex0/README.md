@@ -104,41 +104,8 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
 6. Go back to Purchase Requisition tab, click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step and save.<br>
 <br>![](/exercises/ex0/images/AvailableDec.png)
 
-7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form (Trigger) and Save the process.
-<br>![](/exercises/ex0/images/MapInput.png)
-
- ## Enhance Approval form
-
- In the step we will modify Approval Form and map it with input field & calculated variables.
-
- 1. Click on three dots next to Approval Form and click on Open Editor.
- <br>![](/exercises/ex0/images/AppFormOpenEdit.png)<br>
-
- 2.In the form editor, drag and drop from left panel four components in following sequence and Save the process.
- 
- i. H1 - Headline 1 - Enter “Approve Purchase Requisition”.
- 
- ii. Text Field - Rename title as “Supplier” and make it required on right side configuration. 
- 
- iii. Number Field - Rename title as “Quantity” and make it required on right side configuration. 
- 
- iv. Text Field - Rename title as “Total Price” and make it required on right side configuration.<br>
- <br>![](/exercises/ex0/images/ApprovPurchase.png)
-
- 3.Come back to main process(Purchase Requisition tab) and select Approval Form.
-
- 4. On the right-hand panel under General tab, enter “Approve Purchase Requisition” as subject and map approver from Determine Approver step to Recipient users, and Save the Process
- <br>![](/exercises/ex0/images/MapApprover.png)
- 
- 5.On the right-hand panel under Inputs tab, map following fields, and Save the process. 
- 
- • Quantity – with quantity from Trigger Form 
- 
- • Supplier – with supplier from Trigger Form 
- 
- • Total Price – with total price from Custom Variable<br>
- <br>![](/exercises/ex0/images/MapApprover.png)
- 
+7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form and Save the process.
+<br>![](/exercises/ex0/images/MapInput.png) 
 
 ## Summary
 
