@@ -112,6 +112,20 @@ and calculates totalprice by multiplying $.context.startEvent.items.itemPrice an
 7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form (Trigger) and Save the process.
 <br>![](/exercises/ex0/images/MapInput.png)
 
+ ## Enhance Approval form
+
+ In the step we will modify Approval Form and map it with input field & calculated variables.
+
+ 1. Click on three dots next to Approval Form and click on Open Editor.
+ <br>![](/exercises/ex0/images/RulePrompt.png)<br>
+
+ In the form editor, drag and drop from left panel four components in following sequence and Save the process.
+ i. H1 - Headline 1 - Enter “Approve Purchase Requisition”. 
+ ii. Text Field - Rename title as “Supplier” and make it required on right side configuration. 
+ iii. Number Field - Rename title as “Quantity” and make it required on right side configuration. 
+ iv. Text Field - Rename title as “Total Price” and make it required on right side configuration.
+ <br>![](/exercises/ex0/images/RulePrompt.png)<br>
+
 ## Summary
 
 Now that you know how to use Generative AI capabilities to generate process, form, java script and business rules,  
