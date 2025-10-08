@@ -57,6 +57,10 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 6. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/CustomVariables_Configure.png)
+
+7.Click on PR Submission Form and Click on Inputs tab. Map all the attributes from Process Inputs
+<br>![](/exercises/ex0/images/MapInput_Variables.png.png)
+
    
 ## Script Generation
 
