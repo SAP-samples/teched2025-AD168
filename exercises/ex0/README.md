@@ -51,15 +51,13 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 3. Once the form is generated, Click on Save.<br>
 <br>![](/exercises/ex0/images/Save.png)
 
-4. Click on Add a Trigger, select Submit a Form, choose the form which we created in the last step and Save.<br>
-<br>![](/exercises/ex0/images/Trigger.png)
+4. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
+<br>![](/exercises/ex0/images/API_Trigger.png)
+<br>![](/exercises/ex0/images/Create_API_Trigger.png)
 
-5. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
+6. Click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables, configure a process custom variable "Totalprice" (of number type) , "ApprovalStatus" (of string type) and Save the process.<br>
 <br>![](/exercises/ex0/images/CustomVar.png)<br>
 <br>![](/exercises/ex0/images/CustomVariables_Configure.png)
-
-7. Because we are using PR Submission Form to Trigger the process, we will remove it from next step. Select PR Submission Form, click on three dots, click on Remove and Save the process.
-<br>![](/exercises/ex0/images/RemoveForm.png)
    
 ## Script Generation
 
