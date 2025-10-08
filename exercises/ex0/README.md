@@ -59,7 +59,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 <br>![](/exercises/ex0/images/CustomVariables_Configure.png)
 
 7.Click on PR Submission Form and Click on Inputs tab. Map all the attributes from Process Inputs
-<br>![](/exercises/ex0/images/MapInput_Variables.png.png)
+<br>![](/exercises/ex0/images/MapInput_Variables.png)
 
    
 ## Script Generation
