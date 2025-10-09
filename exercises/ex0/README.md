@@ -12,8 +12,9 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 ## Details of tenant and login
 
 Lobby URL - https://ad168-skhq09xc.eu10.build.cloud.sap/lobby <br>
-User id - AD168-XXX@education.cloud.sap.. Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on.. <br>
-Password - Adm1nteched25
+User id - AD168-XXX@education.cloud.sap..  <br>
+Password - Adm1nteched25 <br>
+Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..
 
 ## Enable Generative AI option
 
