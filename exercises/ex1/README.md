@@ -12,9 +12,9 @@ In this exercise, we will learn how to create different Process Variants for the
 2. Click on + after "Determine Approver" and choose Variant Template 
 <br>![](/exercises/ex1/images/PV_Create.png)
 3. Give name as "Purchase Order Variant Template" and Save <br>
-4. Click on "Open Variant Template"<br>
+4. Click on "Open Editor"<br>
 <br>![](/exercises/ex1/images/Open_Variant_Editor.png) 
-5. Click on "Add Steps" and add all the available steps.
+5. Click on "Add Steps" and add all the available steps one by one.
 <br>![](/exercises/ex1/images/Add_Steps.png) 
 6. Steps available in Variant Editor will look as below:
 <br>![](/exercises/ex1/images/Available_Steps.png)
@@ -24,15 +24,15 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/Add_Default_Variant.png)
 9.Add Department Approval Process step to the Default Variant
 <br>![](/exercises/ex1/images/Add_Dept_Default_Variant.png)
-10.Click on + after the Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
+10.Click on + after the  Department Approval Process , click on Controls and Events and add Branch called "Parallel Branch" to Default Variant
 <br>![](/exercises/ex1/images/Add_Parallel_Branch.png),
 <br>Parallel branches are created so that 2 or more steps can execute simlataneously without waiting for the previous step to compelete. But all the parallel branches have to be completed before next step can proceed though.<br>
-11.Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches
+11.Add Steps Finance Approval Process and Legal Department Approval Process as parallel branches , if they are not visible, click on "Show All" to see all taht is available.
 <br>![](/exercises/ex1/images/Add_Fin_Legal_Parallel_Branch.png)
 12.Click on + and Add Step Procurement Approval Process. Default Variant finally will look like below:
 <br>![](/exercises/ex1/images/Final_Default_Variant.png)
-13.Save the Default Variant<br>
-14.Click on Variables tab and add attributes
+13.Save the Default Variant and click on Back to go back to the leading "Purchase Requisition" process <br>
+14.Click on "Purchase Order Variant Template" and go to Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
 15.Add all the attributes from the process context
 <br>![](/exercises/ex1/images/Add_Attributes.png)
