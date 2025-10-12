@@ -13,6 +13,7 @@ In this exercise, we will learn how to create different Process Variants for the
 <br>![](/exercises/ex1/images/PV_Create.png)
 3. Give name as "Purchase Order Variant Template" and Save <br>
 4. Click on "Open Variant Template"<br>
+<br>![](/exercises/ex1/images/Open_Variant_Editor.png) 
 5. Click on "Add Steps" and add all the available steps.
 <br>![](/exercises/ex1/images/Add_Steps.png) 
 6. Steps available in Variant Editor will look as below:
