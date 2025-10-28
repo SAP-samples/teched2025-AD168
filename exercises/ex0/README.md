@@ -58,7 +58,7 @@ In this step we will generate Purchase Order Approval process using Generative A
 
 ## Data Type Generation
 In this step we will generate Data Type for Items as a list using Generative AI.
-1.  Click on Generate and select Datatype<br>
+1.  Go Back to overview tab, click on Generate and select Datatype<br>
 <br>![](/exercises/ex0/images/Generate_DT.png)
 2. Enter the prompt to generate Items Datatype as "Generate Data Type named "Items" of type list with fields Item of type string, Description of type string, Quantity of type number, Item Price of type number"
 <br>![](/exercises/ex0/images/DT_Prompt.png)
