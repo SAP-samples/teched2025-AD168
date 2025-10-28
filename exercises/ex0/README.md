@@ -138,7 +138,7 @@ and calculates totalprice by multiplying $.context.startEvent.items.ItemPrice an
 <br>![](/exercises/ex0/images/RulePrompt.png)<br>
 <br>![](/exercises/ex0/images/DecisionTable.png)
 
-6. If Decision "Determine Approver is <b>not available<b> in the main process (Purchase Requisition), click on ‘+’ button after Script Task, select Decision from smart menu and select Determine Approver decision which we created in last step and save.<br>
+6. Go to "Purchase Requistion Process" tab, click on ‘+’ button after Script Task, select Decision from smart menu and select "Determine Approver" decision which we created in last step and save.<br>
 <br>![](/exercises/ex0/images/AvailableDec.png)
 
 7. On the right-hand side panel select Inputs, map Supplier with Supplier from PR Submission Form and Save the process.
