@@ -72,7 +72,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 1. Go Back to "Purchase Requision Process" tab, click on "+" button after "Add a Trigger" step. From Smart Menu, select Form.<br>
 <br>![](/exercises/ex0/images/Form.png)
 
-2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, Item Price".<br>
+2.	Enter the prompt to generate PR Submission Form "Create PR Submission Form with fields Company, Supplier, Delivery Address, Delivery Date, Payment Terms, Requested By and Department and a table with fields Item, Description, Quantity, ItemPrice".<br>
 <br>![](/exercises/ex0/images/PRSubForm.png)
 
 3. Once the form is generated, enter the Subject:"PR Submission Form" and map the Recipients users to "Started By" in the process Metadata  <br>![](/exercises/ex0/images/Fill_Form_Mandatory_Params.png) 
@@ -80,7 +80,7 @@ In this step we will generate a form using Generative AI and use it as Trigger F
 <br>![](/exercises/ex0/images/Save.png)
 5. Click anywhere on the canvas and then click on ![](/exercises/ex0/images/Arrow.png) to open side process panel, select Variables and click on Configure for Process Input Variables.
    <br>![](/exercises/ex0/images/CustomVar.png)<br>
-6. Click on Add Input and add the following attributes of appropriate type(string, number and so on) as shown below.
+6. Click on Add Input and add the following attributes of appropriate type(string, number, and so on) and mark as required, as shown below. The "Item" attribute should be mark also as list.   
 <br>![](/exercises/ex0/images/Configure_Process_Inputs.png) 
 7. Click on Add a Trigger, select API Trigger, give it a name "Purchase Order Process Trigger" and click on Create.<br>
 <br>![](/exercises/ex0/images/API_Trigger.png)
