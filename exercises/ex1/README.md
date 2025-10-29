@@ -76,7 +76,7 @@ Repeat this for all steps.<br>
 <br>![](/exercises/ex1/images/Variant_Mgmt.png)
 <br>![](/exercises/ex1/images/VarMan.png)
 Default Variant created in the Process Template will automatically appear here. Now, more variants can be created by the Business user here.
-
+<br>![](/exercises/ex1/images/DefultVar.png)
 8.Create a variant named "Two level approval" by clicking on Create Variant <br>
 <br>![](/exercises/ex1/images/Create_Variant.png)
 9.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is less than 10000"
