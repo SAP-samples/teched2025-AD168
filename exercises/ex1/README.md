@@ -73,7 +73,7 @@ Repeat this for all steps.<br>
 <br>![](/exercises/ex1/images/Add_Dependency.png)
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
 7.Create a Variant management artifact "Purchase Order Variants"
-<br>![](/exercises/ex1/images/Add_VarMan.png)
+<br>![](/exercises/ex1/images/VarMan.png)
 Default Variant created in the Process Template will automatically appear here. Now, more variants can be created by the Business user here.
 <br>![](/exercises/ex1/images/Variant_Mgmt.png)
 8.Create a variant named "Two level approval" by clicking on Create Variant <br>
