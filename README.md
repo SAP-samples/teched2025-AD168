@@ -28,8 +28,6 @@ We will take the typical Purchase Order Approval Process which will involve the 
 The requirements to follow the exercises in this repository are :<br>
 
 1. Generative AI should be enabled<br>
-2. Task center and SBPA are configured to be connected
-
 
 ## Exercises
 
