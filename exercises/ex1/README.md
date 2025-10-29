@@ -19,7 +19,7 @@ In this exercise, we will learn how to create different Process Variants for the
 6.After adding each step,  click on the added step, go to "Inputs" tab and map all the available attributes from "Company" to "Supplier" from PR Submission Form and "Totalprice" from Custom Variables.
 <br>![](/exercises/ex1/images/Map_Step_Attributes.png) <br>
 Go to "Variant" and add Step Input "Approver"
-<br>![](/exercises/ex1/images/Map_Step_Attributes.png) <br>
+<br>![](/exercises/ex1/images/StepInput.png) <br>
  
 Repeat this for all steps.<br>
 7.Steps available in Variant Editor will look as below:
