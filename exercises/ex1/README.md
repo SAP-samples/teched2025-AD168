@@ -72,7 +72,7 @@ Repeat this for all steps.<br>
 6.Add Business Process Project Dependency to "Purchase Order Approval Process" by going to Settings->Dependencies->Add a Business Process Project Dependency->Project.
 <br>![](/exercises/ex1/images/Add_Dependency.png)
 <br>![](/exercises/ex1/images/Add_Dependency_Project.png)
-7.Create a Variant management artifact. Default Variant created in the Process Template will automatically appear here. Now, more variants can be created by the Business user here.
+7.Create a Variant management artifact. Default Variant created in the Process Template will automatically appear here. Now, more variants can be created by the Business user here.<br> 
 <br>![](/exercises/ex1/images/Variant_Mgmt.png)
 8.Create a variant named "Two level approval" by clicking on Create Variant <br>
 <br>![](/exercises/ex1/images/Create_Variant.png)
