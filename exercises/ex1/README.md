@@ -108,8 +108,11 @@ Default Variant created in the Process Template will automatically appear here.
 18.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
 <br>![](/exercises/ex1/images/Activate_Variant.png)
 19.A variant can be deleted as well by clicking on "Delete".<br>
-20.Release and deploy all variants by clicking on "Deploy All".<br>
-<br>![](/exercises/ex1/images/Deploy_All.png)
+20.Release and deploy the variants.<br>
+<br>![](/exercises/ex1/images/ReleaseVar.png)<br>
+<br>![](/exercises/ex1/images/ShowProVer.png)<br>
+<br>![](/exercises/ex1/images/DepVar.png)
+
 ## Summary
 
 You've now learnt to work with Process Variants in SAP Build Process Automation
