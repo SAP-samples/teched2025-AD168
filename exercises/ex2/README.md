@@ -3,7 +3,7 @@ In this exercise, we will learn how to Deploy and Run the process. If process va
 
 ## Release and Deploy the project
 
-After completing these steps you will have released and deployed the project...
+After completing these steps you will have to release and deploy the project.
 
 1. Click on Release to release a version of the template project.
    <br>![](/exercises/ex2/images/Release_Template_Project.png)
