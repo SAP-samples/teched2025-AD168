@@ -21,7 +21,7 @@ In this exercise, we will learn how to create different Process Variants for the
 Go to "Variant" and add Step Input "Approver"
 <br>![](/exercises/ex1/images/StepInput.png) <br>
  
-Repeat this for all steps.<br>
+Repeat this for all steps except Send Notification step.<br>
 7.Steps available in Variant Editor will look as below:
 <br>![](/exercises/ex1/images/Available_Steps.png)
 8.Click on "Add Default Variant" in the General tab and Create a new one with name "Default Variant" which will act as a fallback if no other variant is created or no other start condition is met
