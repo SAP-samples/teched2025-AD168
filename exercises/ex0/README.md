@@ -4,8 +4,7 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 
 Pre-requisites <br>
 1.[How to Login](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#details-of-tenant-and-login)<br>
-2.[How to Enable Generative AI](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#enable-generative-ai-option)<br>
-3.[How to import Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport)
+2.[How to import Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport)
 
 
 We will use following features to create a Purchase Order Approval process:
