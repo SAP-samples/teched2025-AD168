@@ -33,7 +33,7 @@ Click on Versions tab and choose Editable and click on ... and do "Save as New P
 <br>![](/exercises/ex0/images/SaveAsNewProject.png)
 2. Give the name as "Purchase Order Approval Process XXX" where XXX is your user id
 <br>![](/exercises/ex0/images/SaveAsNewProject_User_name.png) <br>
-3. The newly created project will open in a new tab, open it and follow the next steps.
+3. Open the newly created project in a new tab and follow the next steps.
 
  ## Process Generation
 
