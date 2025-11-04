@@ -29,8 +29,10 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 ## Project Creation/Import
 
 1. Download projects "Purchase Order Approval Process.mtar" from [projects folder](https://github.com/SAP-samples/teched2025-AD168/tree/main/exercises/ex0/projects) to your local directory <br>
+Click on Purchase Order Approval Process.mtar file and click on Download icon to download the file
+<br>![](/exercises/ex0/images/Download_mtar.png)
    
-2. Login to SAP Build Lobby and Click on import icon<br>
+3. Login to SAP Build Lobby and Click on import icon<br>
 <br>![](/exercises/ex0/images/Import.png)
 
 3.Browse for the downloaded Purchase Order Approval Process project and click on Import. This will import the project.<br>
