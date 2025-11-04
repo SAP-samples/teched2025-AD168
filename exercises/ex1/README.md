@@ -40,10 +40,10 @@ Repeat this for all steps except Send Notification step.<br>
 14.Save the Default Variant and click on Back to go back to the leading "Purchase Requisition" process <br>
 15.Click on "Purchase Order Variant Template" and go to Variables tab and add attributes
 <br>![](/exercises/ex1/images/Add_Variables.png)
-16.Add all the attributes from the process context
+16.Add all the attributes from the process context - Both Process Inputs and Custom variables.
 <br>![](/exercises/ex1/images/Add_Attributes.png)
-    1. ApprovalStatus<br>
-    2. Totalprice<br>
+    1. ApprovalStatus  (From the custom variables) <br>
+    2. Totalprice (From the custom variables)<br>
     3. Approver<br>
     4. Company<br>
     5. DeliveryAddress<br>
