@@ -4,7 +4,7 @@ In this exercise we will learn how to use Joule for Developers/Generative AI cap
 
 Pre-requisites <br>
 1.[How to Login](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#details-of-tenant-and-login)<br>
-2.[How to import Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport)
+2.[Save as New Project](https://github.com/SAP-samples/teched2025-AD168/blob/main/exercises/ex0/README.md#project-creationimport)
 
 
 We will use following features to create a Purchase Order Approval process:
@@ -26,11 +26,11 @@ Note: Save work with each step just to make sure we do not lose out on any infor
 <li>Replace XXX with your user number, say for example your number is given as 001, it will be AD168-001 and so on..<br>
 </ul>
 
-## Project Creation/Import
+## Project Creation by Save as New Project
 
-1. Download projects "Purchase Order Approval Process.mtar" from [projects folder](https://github.com/SAP-samples/teched2025-AD168/tree/main/exercises/ex0/projects) to your local directory <br>
-Click on Purchase Order Approval Process.mtar file and click on Download icon to download the file
-<br>![](/exercises/ex0/images/Download_mtar.png)
+1.Locate the project "Purchase Order Approval Process" <br>
+Click on Versions tab and choose Editable and click on ... and do "Save as New Project"
+<br>![](/exercises/ex0/images/SaveAsNewProject.png)
    
 3. Login to SAP Build Lobby and Click on import icon<br>
 <br>![](/exercises/ex0/images/Import.png)
