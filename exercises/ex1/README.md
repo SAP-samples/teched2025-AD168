@@ -96,19 +96,20 @@ Default Variant created in the Process Template will automatically appear here.
 <br>![](/exercises/ex1/images/ThreeLev.png)
 13) Add 3 levels of approvals, "Department Approval Process", "Finance Approval Process" and "Procurement Approval Process"
 <br>![](/exercises/ex1/images/Three_Levels_Approvals.png)
-14.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000" press "Apply" and save.
+14.Click on "Department Approval Procees" go to "Step Configuration" and map the "Approver" to the "Approver" from Process Inputs. Repete this step for "Porcurement Approval Process" and "Finance Approval Process".
+15.Add Start Condition by clicking on "Add Start Condition" and giving condition as "Totalprice is greater than 10000" and "Totalprice is less than 50000" press "Apply" and save.
 <br>![](/exercises/ex1/images/Three_levels_Start_Condition.png)
-15.Go to Purchase Order Variant" tab, change the order of the variants by clicking on three dots (...) at the end of variant "Two level approvals" and click on Move Down or Move to Bottom.
+16.Go to Purchase Order Variant" tab, change the order of the variants by clicking on three dots (...) at the end of variant "Two level approvals" and click on Move Down or Move to Bottom.
 <br>![](/exercises/ex1/images/Change_Order_Variants.png)
-16.Order/Priority is changed now. "Three levels of approvals" moves to the top.
+17.Order/Priority is changed now. "Three levels of approvals" moves to the top.
 <br>![](/exercises/ex1/images/Order_Change.png)
-17.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate.Status of the variant becomes inactive. 
+18.Deactivate variant by clicking on three dots (...) at the end of variant "Two level approvals" and click on Deactivate.Status of the variant becomes inactive. 
 <br>![](/exercises/ex1/images/Deactivate_Variant.png)
 <br>![](/exercises/ex1/images/Inactive_Variant.png)
-18.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
+19.Activate the variant back by clicking on three dots (...) at the end of variant "Two level approvals" and click on Activate. Status of the variant becomes valid again. 
 <br>![](/exercises/ex1/images/Activate_Variant.png)
-19.A variant can be deleted as well by clicking on "Delete".<br>
-20.Release and deploy the variants.<br>
+20.A variant can be deleted as well by clicking on "Delete".<br>
+21.Release and deploy the variants.<br>
 <br>![](/exercises/ex1/images/ReleaseVar.png)<br>
 <br>![](/exercises/ex1/images/ShowProVer.png)<br>
 <br>![](/exercises/ex1/images/DepVar.png)
