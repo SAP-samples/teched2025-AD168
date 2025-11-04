@@ -8,7 +8,7 @@ In this exercise, we will learn how to create different Process Variants for the
 
 Process Variants capability enables a business configuration expert to configure the m different steps out of the total n steps as per the business requirements.<br>
 
-A process developer defines all the differnt steps that can be part of a process in a process variant template , releases and publishes the project called as Template project.<br>
+A process developer defines all the different steps that can be part of a process in a process variant template , releases and publishes the project called as Template project.<br>
 
 This template project is added as a business object dependency to another project named as Configuration project wherein business configuration expert can create different variants , change the priority of variants , activate a variant, deactivate a variant , delete a variant and so on.
 Say, for example, in this exercise, we will let the Business configuration expert create 2 variants, one with 2 levels of approvals and another one with 3 levels of approvals out of 5 steps which are available as released by a process developer in the template project
