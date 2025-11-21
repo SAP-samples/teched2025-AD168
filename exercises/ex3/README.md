@@ -14,9 +14,15 @@ In this exercise we will see how **Intelligent Recommendation** feature of **Pro
     - If already signed in with your user number(used for previous exercise), please sign-out and sign-in again with the above credentials.
 
 
-## Intelligent Recommendation Creation for Specific Task (Already done): <br>
+## Section 1 : Intelligent Recommendation Creation for Specific Task:
 
-In this step an **Intelligent Recommendation** model is created for 'Department Approval Task' of 'Purchase Order Approval process'. (This can be done only by Task Center Administrator)
+> [!IMPORTANT]
+> This section is performed by the Task Center Administator. For this exercise, we have have already created and activated the intelligent recommendation model. The model is also trained with some predefined data. You do not have to follow the steps in this section. It is only for information purpose so that you understand how the model are created, activated and trained for intelligent recommendations. 
+
+Below steps explains how an **Intelligent Recommendation** model is created for 'Department Approval Task' of 'Purchase Order Approval process'. 
+
+> [!WARNING]
+> **DONOT RUN THESE STEPS**
 
 1. In the Task Center home page click on _Task Center Administration_ tab. <br>
    ![](/exercises/ex3/images/1.TaskCenterHome.png)<br><br>
@@ -49,13 +55,13 @@ In this step an **Intelligent Recommendation** model is created for 'Department 
    ![](/exercises/ex3/images/10.IRActive.png) <br><br>
 10. Now Intelligence recommendation capabilities are accessible to the users.
 
-## Intelligent Recommendation Visualization for Approval Tasks: <br>
+## Section 2: Intelligent Recommendation Visualization for Approval Tasks: 
 
-In this step we will navigate to task center and see recommendations for _Department Approval Task_ of _Purchase Order Approval process_.
+In this section, you will navigate to task center application and see recommendations for _Department Approval Task_ of _Purchase Order Approval process_.
 
-1. In the **Task Center** home page click on **Task Center Tile**. <br>
+1. In the **Task Center** home page click on **Task Center** tile. <br>
    ![](/exercises/ex3/images/12.TaskCenterHomeWithTasks.png)<br><br>
-2. In the **Task Typer** filter dropdown select "**Department Approval Task**". <br>
+2. In the **Task Typer** filter dropdown select **Department Approval Task**. <br>
    ![](/exercises/ex3/images/13.TaskTypeSelection.png)<br><br>
 3. Click on **Go** to filter the tasks! <br>
    ![](/exercises/ex3/images/14.GoInTaskCenter.png)<br><br>
