@@ -9,8 +9,8 @@ In this exercise we will see how **Intelligent Recommendation** feature of **Pro
 
 1. Click to open [Task Center](https://ad168-skhq09xc.launchpad.cfapps.eu10.hana.ondemand.com/site?siteId=0e6b844f-5e77-423d-b661-31875a69365e#Shell-home)
 2. Sign in with **tdct3ched1.accounts.ondemand.com** and not the Default Identity Provider
-3. User id - **AD168-045@education.cloud.sap**  
-4. Password - **TechEd25onTour!** 
+3. User id : **AD168-XXX@education.cloud.sap** 
+4. Password : **TechEd25onTour!** 
     - If already signed in with your user number(used for previous exercise), please sign-out and sign-in again with the above credentials.
 
 
